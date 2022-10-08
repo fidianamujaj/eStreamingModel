@@ -1,0 +1,103 @@
+ERwin Property Ids,1075850516::User Formatted Name  [read only],0::Object Type  [read only],1073742126::Name,1075849172::Physical Only,1075849176::Physical Name
+1075838981::262,Payment Id,Column,Payment Id,,PaymentId
+1075838981::264,Payment Amount,Column,Payment Amount,,PaymentAmount
+1075838981::265,Plan Id,Column,Plan Id,,PlanId
+1075838981::266,Plan Type,Column,Plan Type,,PlanType
+1075838981::268,Plan Price,Column,Plan Price,,PlanPrice
+1075838981::269,Customer Id,Column,Customer Id,,CustomerId
+1075838981::271,First Name,Column,First Name,,FirstName
+1075838981::277,Email Address,Column,Email Address,,Email
+1075838981::278,Hashed Password,Column,Hashed Password,,Password
+1075838981::281,Last Name,Column,Last Name,,LastName
+1075838981::285,Expiration Date,Column,Expiration Date,,ExpirationDate
+1075838981::286,Cvv Code,Column,Cvv Code,,CvvCode
+1075838981::287,Credit Card Number,Column,Credit Card Number,,CreditCardNumber
+1075838981::290,City Name,Column,City Name,,CityName
+1075838981::291,Zip Code,Column,Zip Code,,ZipCode
+1075838981::293,Show Id,Column,Show Id,,ShowId
+1075838981::294,Show Name,Column,Show Name,,ShowName
+1075838981::301,Actor Id,Column,Actor Id,,ActorId
+1075838981::302,Actor First Name,Column,Actor First Name,,ActorName
+1075838981::304,Actor Last Name,Column,Actor Last Name,,ActorLastName
+1075838981::305,Release Date,Column,Release Date,,ReleaseDate
+1075838981::314,Address Id,Column,Address Id,,AddressId
+1075838981::316,Address One,Column,Address One,,AddressOne
+1075838981::317,Address Two,Column,Address Two,,AddressTwo
+1075838981::318,State Id,Column,State Id,,StateId
+1075838981::320,State Name,Column,State Name,,StateName
+1075838981::321,Director Id,Column,Director Id,,DirectorId
+1075838981::323,First Name,Column,First Name,,FirstName
+1075838981::324,Middle Name,Column,Middle Name,,MiddleName
+1075838981::325,Last Name,Column,Last Name,,LastName
+1075838981::326,Director Award,Column,Director Award,,DirectorAward
+1075838981::327,Rating Id,Column,Rating Id,,RatingId
+1075838981::333,Rating Comment,Column,Rating Comment,,RatingComment
+1075838981::334,Movie Id,Column,Movie Id,,MovieId
+1075838981::336,Movie Title,Column,Movie Title,,MovieTitle
+1075838981::337,Movie Release Date,Column,Movie Release Date,,ReleaseYear
+1075838981::340,Description,Column,Description,,ReleaseMonth
+1075838981::342,Movie Language,Column,Movie Language,,MovieLanguage
+1075838981::344,License Id,Column,License Id,,MovieLicenceId
+1075838981::345,License Experation Date,Column,License Experation Date,,LicenseExperationDate
+1075838981::353,Server Id,Column,Server Id,,ServerId
+1075838981::355,Hostname,Column,Hostname,,Hostname
+1075838981::371,Movie Url,Column,Movie Url,,MovieUrl
+1075838981::372,Movie Clip,Column,Movie Clip,,MovieClip
+1075838981::394,Movie Length,Column,Movie Length,FALSE,MovieLength
+1075838981::436,License Start Date,Column,License Start Date,,LicenseStartDate
+1075838981::443,Payment Date,Column,Payment Date,,PaymentDate
+1075838981::444,Payment Status,Column,Payment Status,,PaymentStatus
+1075838981::445,Payment Method,Column,Payment Method,,PaymentMethod
+1075838981::446,Vendor Number,Column,Vendor Number,,VendorNumber
+1075838981::447,Routing Number,Column,Routing Number,,RoutingNumber
+1075838981::448,Credit Card Type,Column,Credit Card Type,,CreditCardType
+1075838981::452,Payment Id,Column,Payment Id,,PaymentId
+1075838981::463,Payment Id,Column,Payment Id,,PaymentId
+1075838981::470,City Id,Column,City Id,,CityId
+1075838981::480,City Id,Column,City Id,,CityId
+1075838981::486,State Id,Column,State Id,,StateId
+1075838981::496,Telephone,Column,Telephone,,Telephone
+1075838981::499,Address Id,Column,Address Id,,AddressId
+1075838981::508,Customer Id,Column,Customer Id,,CustomerId
+1075838981::513,Created On,Column,Created On,,CreatedOn
+1075838981::514,Account Id,Column,Account Id,,AccountId
+1075838981::519,Last Signed In,Column,Last Signed In,,LastSignedIn
+1075838981::538,Show Id,Column,Show Id,,ShowId
+1075838981::542,Season Id,Column,Season Id,,SeasonId
+1075838981::544,Season Title,Column,Season Title,,SeasonTitle
+1075838981::547,Show Id,Column,Show Id,,ShowId
+1075838981::549,Season Id,Column,Season Id,,SeasonId
+1075838981::554,Season Number,Column,Season Number,,SeasonNumber
+1075838981::555,Episode Name,Column,Episode Name,,EpisodeName
+1075838981::556,Episode Number,Column,Episode Number,,EpisodeNumber
+1075838981::557,Episode Length,Column,Episode Length,,EpisodeLength
+1075838981::558,Episode Description,Column,Episode Description,,EpisodeDescription
+1075838981::559,Description,Column,Description,,Description
+1075838981::569,Address Id,Column,Address Id,,AddressId
+1075838981::626,Server Id,Column,Server Id,,ServerId
+1075838981::630,Snapshot,Column,Snapshot,,Snapshot
+1075838981::631,Load,Column,Load,,Load
+1075838981::642,Supported Devices,Column,Supported Devices,,SupportedDevices
+1075838981::643,Supported Resolution,Column,Supported Resolution,,SupportedResolution
+1075838981::676,Plan Id,Column,Plan Id,,PlanId
+1075838981::682,Customer Id,Column,Customer Id,,CustomerId
+1075838981::684,Account Id,Column,Account Id,,AccountId
+1075838981::690,Plan Id,Column,Plan Id,,PlanId
+1075838981::697,Production Id,Column,Production Id,,ProductionId
+1075838981::701,Director Id,Column,Director Id,,DirectorId
+1075838981::711,Production Id,Column,Production Id,,ProductionId
+1075838981::719,Production Id,Column,Production Id,,ProductionId
+1075838981::724,Server Id,Column,Server Id,,ServerId
+1075838981::738,Production Id,Column,Production Id,,ProductionId
+1075838981::741,Production Id,Column,Production Id,,ProductionId
+1075838981::744,Production Id,Column,Production Id,,ProductionId
+1075838981::755,Production Id,Column,Production Id,,ProductionId
+1075838981::762,Production Type,Column,Production Type,,ProductionType
+1075838981::771,Production Id,Column,Production Id,,ProductionId
+1075838981::776,Customer Id,Column,Customer Id,,CustomerId
+1075838981::778,Account Id,Column,Account Id,,AccountId
+1075838981::783,Country,Column,Country,,Country
+1075838981::792,Actor Id,Column,Actor Id,,ActorId
+1075838981::797,Production Id,Column,Production Id,,ProductionId
+1075838981::808,Production Name,Column,Production Name,,ProductionName
+1075838981::809,Actor Award,Column,Actor Award,,ActorAward

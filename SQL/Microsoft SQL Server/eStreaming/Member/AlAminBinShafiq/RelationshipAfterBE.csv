@@ -1,0 +1,26 @@
+ERwin Property Ids,1075850516::User Formatted Name  [read only],0::Object Type  [read only],1073742126::Name,1075849176::Physical Name,1075849763::Parent Entity  [read only],1075849764::Child Entity  [read only],1075850516::User Formatted Name  [read only]
+1075839016::450,Payment is Credit Card,Relationship,FK_Credit Card_Payment,FK_Credit Card_Payment,Payment,Credit Card,Payment R/10 Credit Card
+1075839016::461,Payment is Epay,Relationship,FK_Epay_Payment,FK_Epay_Payment,Payment,Epay,Payment R/11 Epay
+1075839016::478,City has Address,Relationship,FK_Address_City,FK_Address_City,City,Address,City has Address
+1075839016::484,State has City,Relationship,FK_City_State,FK_City_State,State,City,State has City
+1075839016::497,Address belongs to a Customer,Relationship,FK_Customer_Address,FK_Customer_Address,Address,Customer,Address belongs to a Customer
+1075839016::506,Customer has Account,Relationship,FK_Account_Customer,FK_Account_Customer,Customer,Account,Customer has Account
+1075839016::536,TvShow has Season,Relationship,FK_Season_TvShow,FK_Season_TvShow,TvShow,Season,TvShow has Season
+1075839016::545,Season has Episode,Relationship,FK_Episode_Season,FK_Episode_Season,Season,Episode,Season has Episode
+1075839016::567,Address belongs to a Server,Relationship,FK_Server_Address,FK_Server_Address,Address,Server,Address belongs to a Server
+1075839016::624,Server has ServerLoad,Relationship,FK_ServerLoad_Server,FK_ServerLoad_Server,Server,ServerLoad,Server has ServerLoad
+1075839016::674,Plan has Payment,Relationship,FK_Payment_Plan,FK_Payment_Plan,Plan,Payment,Plan has Payment
+1075839016::680,Account does Payment,Relationship,FK_Payment_Account,FK_Payment_Account,Account,Payment,Account does Payment
+1075839016::688,Plan belongs to Account,Relationship,FK_Account_Plan,FK_Account_Plan,Plan,Account,Plan belongs to Account
+1075839016::699,Director directs a Production,Relationship,FK_Production_Director,FK_Production_Director,Director,Production,Director directs a Production
+1075839016::709,Production has License,Relationship,FK_License_Production,FK_License_Production,Production,License,Production has License
+1075839016::714,Production is streamed through Server,Relationship,FK_Server_Production,FK_Server_Production,Production,Server,Production is streamed through Server
+1075839016::717,Production to Production Server,Relationship,FK_Production Server_Production,FK_Production Server_Production,Production,Production Server,R/46 (Production to Production Server)
+1075839016::722,Server to Production Server,Relationship,FK_Production Server_Server,FK_Production Server_Server,Server,Production Server,R/47 (Server to Production Server)
+1075839016::736,Production is a TvShow,Relationship,FK_TvShow_Production,FK_TvShow_Production,Production,TvShow,Production R/48 TvShow
+1075839016::753,Production is a Movie,Relationship,FK_Movie_Production,FK_Movie_Production,Production,Movie,Production R/49 Movie
+1075839016::769,Production has Rating,Relationship,FK_Rating_Production,FK_Rating_Production,Production,Rating,Production has Rating
+1075839016::774,Account makes a Rating,Relationship,FK_Rating_Account,FK_Rating_Account,Account,Rating,Account makes a Rating
+1075839016::787,Actor plays in Production,Relationship,FK_Production_Actor,FK_Production_Actor,Actor,Production,Actor plays in Production
+1075839016::790,Actor to Cast,Relationship,FK_Actor Production_Actor,FK_Actor Production_Actor,Actor,Actor Production,R/53 (Actor to Actor Production)
+1075839016::795,Production to Cast,Relationship,FK_Actor Production_Production,FK_Actor Production_Production,Production,Actor Production,R/54 (Production to Actor Production)
